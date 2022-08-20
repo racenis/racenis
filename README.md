@@ -14,15 +14,4 @@
 
 [Tramvaju taisāmā rīkkopa](https://github.com/racenis/tram-sdk). Iesākts kā kvalifikācijas darbs (viņi teica netaisi datorspēli, netiksi galā -- tiku galā). Tagad daudz uzlabots.
 
-[LIGMAScript](https://github.com/racenis/ligmascript) kompilators un interpretators. Tīšām ļoti slikta programmēšanas valoda.
-
-
-## Kompjūterprasmes
-- 17 gadi Microsoft Office
-- 12 gadi .NET
-- 11 gadi HTML/CSS
-- 9 gadi PHP
-- 9 gadi JavaScript
-- 8 gadi C/C++
-- 8 gadi Java
-- 3 gadi Python
+[LIGMAScript](https://github.com/racenis/ligmascript) kompilators un interpretators. ~~Tīšām ļoti slikta~~ ļoti laba programmēšanas valoda.
