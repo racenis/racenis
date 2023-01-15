@@ -2,7 +2,7 @@
 
 ## Mājasdarbi
 
-[Androīda aplikācija](https://github.com/racenis/block-falling) priekš OOP kursa. 3D mobilās grafikas. (Secinājums -- kā matemātikas cienītājam triviāli).  
+[Androīda aplikācija](https://github.com/racenis/block-falling) priekš OOP kursa. 3D mobilās grafikas. 
 
 [Kotlina aplikācija](https://github.com/racenis/tram-editor) priekš OOP kursa. Kvalifikācijas darba konfigurācijas failu grafiskais redaktors.
 
@@ -12,6 +12,6 @@
 
 ## Citi
 
-[Tramvaju taisāmā rīkkopa](https://github.com/racenis/tram-sdk). Iesākts kā kvalifikācijas darbs (viņi teica netaisi datorspēli, netiksi galā -- tiku galā). Tagad daudz uzlabots.
+[Tramvaju taisāmā rīkkopa](https://github.com/racenis/tram-sdk). Iesākts kā kvalifikācijas darbs. Tagad daudz uzlabots.
 
 [LIGMAScript](https://github.com/racenis/ligmascript) kompilators un interpretators. ~~Tīšām ļoti slikta~~ ļoti laba programmēšanas valoda.
