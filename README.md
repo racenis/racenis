@@ -1,6 +1,12 @@
-![miskaste](miskaste.jpg)
+<!---![miskaste](miskaste.jpg)--->
 
 ## Mājasdarbi
+
+[Attēlu apstrādes programmas](https://github.com/racenis/DatZ5023). Dažādi attēlu filtri (Gausa, Furjē, vilnīšu, utt.).
+
+[Darba grafiku optimizators](https://github.com/racenis/DatZ6103--MAZAIS-un-LIELAIS-praktiskais-darbs). Optimizē darba grafikus.
+
+[Viedais līgums](https://github.com/racenis/blokkedes). Tas ir viedais līgums.
 
 [Androīda aplikācija](https://github.com/racenis/block-falling) priekš OOP kursa. 3D mobilās grafikas. 
 
@@ -12,6 +18,8 @@
 
 ## Citi
 
-[Tramvaju taisāmā rīkkopa](https://github.com/racenis/tram-sdk). Iesākts kā kvalifikācijas darbs. Tagad daudz uzlabots.
+[Tramvaju taisāmā rīkkopa](https://github.com/racenis/tram-sdk). Iesākts kā kvalifikācijas darbs. Tagad nedaudz uzlabots.
 
-[LIGMAScript](https://github.com/racenis/ligmascript) kompilators un interpretators. ~~Tīšām ļoti slikta~~ ļoti laba programmēšanas valoda.
+[Tramvaju rīkkopas līmeņu redaktors](https://github.com/racenis/tram-world-editor). Priekš līmeņu taisīšanas tramvaju rīkkopai.
+
+[Skriptu interpretators](https://github.com/racenis/ligmascript). Baitkoda kompilators un interpretators.
