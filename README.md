@@ -1,4 +1,4 @@
-<!---![miskaste](miskaste.jpg)--->
+![miskaste](miskaste.jpg)
 
 ## Projects
 
@@ -55,3 +55,29 @@
 - Interpreter for a stack-based language
 - Contains bytecode compiler and bytecode interpeter
 - Implemented in **C++**
+
+## Failed take-home assignments
+
+[Chili Labs](https://github.com/racenis/chilitest)
+- **Flutter** app for viewing GIFs
+- Uses GIPHY **REST API** to retrieve a list of GIFs
+- Displays GIFs in a list
+- Allows search of GIFs
+
+[Sapiens](https://github.com/racenis/sapiens)
+- **Java** number guessing game
+- **C++** currency conversion program
+
+[Scandiweb](https://github.com/racenis/scanditask)
+- **PHP** item display website
+- Allows adding and removing items
+- Uses **MySQL** database 
+
+[HackMotion](https://github.com/racenis/ppage)
+- **WordPress** product website
+- Has a fancy video player
+
+[MikroTik](https://github.com/racenis/socket)
+- **C++** server program using sockets
+- CLI client program that pings every server program instance on network
+
